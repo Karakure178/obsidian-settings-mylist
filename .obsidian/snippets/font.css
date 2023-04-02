@@ -1,0 +1,55 @@
+/***** TABLE OF CONTENTS *****/
+/* 1. Font
+/* 2. Colours
+/*     2.1. Hue options (change these numbers for an entirely new look!)
+/*     2.2. Dark theme
+/*     2.3. Light theme
+/*     2.4. Common (calculated)
+/* 3. General UI
+/*     3.1. Title Bar
+/* 4. Markdown (editor / preview)
+/*     4.1. Headings
+/*         4.1.1. Fix font weights
+/*     4.2. Links
+/*         4.2.1. Nifty arrow before internal links (also applies to embeds)
+/*     4.3. Embeds
+/*     4.4. Tables
+/*     4.5. Popovers
+/*     4.6. Task Lists
+/*     4.7. Blockquotes
+/*     4.8. Code
+/*     4.9. Bulleted lists
+/*     4.10. Misc Fixes
+/* 5. Graph view colours
+/* 6. Notion Colour Blocks
+/* 7. In-document header (scrolls with the document) [remove for compatibility with Andy's mode]
+/*     7.1. Adjustments for non-in-document headers (graphs, etc)\
+/*     7.2. Active pane border 
+/*     7.3. Misc fixes
+/* 8. Tags
+/*     8.1. Tag custom colours
+/***** *****/
+
+/* 1. Font */
+body {
+  /* font stacks taken directly from Notion */
+  --font-default: inter-var, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: var(--font-default);
+  -webkit-font-smoothing: auto;
+}
+
+/* 1.2 Fix font weights */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+.cm-s-obsidian .cm-header,
+.cm-underline,
+span.cm-inline-code,
+.markdown-preview-view code,
+.external-link {
+  font-weight: 600;
+}

@@ -1,0 +1,1 @@
+<font color=blue><%tp.file.selection()%></font>

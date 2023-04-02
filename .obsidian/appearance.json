@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "url",
+    "font",
+    "generalUI",
+    "code"
+  ],
+  "baseFontSize": 15
+}

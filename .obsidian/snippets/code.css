@@ -1,0 +1,50 @@
+/* 4. Markdown (editor / preview)
+
+/* Code (editor) */
+/* vs-code dark_plus */
+body.theme-dark{
+    /* コメント */
+    --code-comment:#6A9955;
+    /* 関数名 */
+    --code-function:white;
+    /* キーワード（functionとか) */
+    --code-keyword:#569cd6;
+    /* 演算子 */
+    --code-operator:white;
+
+    /* 文字列 */
+    --code-string:#ce9178;
+
+    --code-important:white;
+    /* プロパティ(CSSのクラスなど) */
+    --code-property:#9cdcfe;
+    /* かっこなど */
+    --code-punctuation:#da70b3;
+    --code-tag:white;
+    --code-value:#569cd6; 
+}
+
+/* inline code(editor) */
+.cm-s-obsidian span.cm-inline-code{
+    --code: #EB5757;
+    --font-monospace: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    color: var(--code);
+    font-family: var(--font-monospace);
+}
+
+/* Code (preview) */
+/* inline code (preview) */
+.markdown-preview-view code{
+    --code: #EB5757;
+    --font-monospace: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    color: var(--code);
+    font-family: var(--font-monospace);
+}
+
+/* code block (preview)*/
+.markdown-preview-view pre code{
+    --font-monospace: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-family: var(--font-monospace);
+    color: white;
+}
+

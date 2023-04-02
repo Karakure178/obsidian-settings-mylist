@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "20a701c1cb030134",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d445054a529c43f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9a53af3e985b45e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "190cde9a2a1f1030",
+    "type": "split",
+    "children": [
+      {
+        "id": "aace929987c85eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e1f31adf181ef9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95b61dc030bfaa0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c225f8622bf065f2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2af3dd40f8bdb7e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5a854801781247a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0f932ddcf25e160",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a97e8920d0715b0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "958a4c09ace340c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f81f54dbc935254",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb5b8c50436f49a5",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "templater-obsidian:Templater": false,
+      "chronology:Open Chronology": false
+    }
+  },
+  "active": "5e1f31adf181ef9b",
+  "lastOpenFiles": [
+    "無題のファイル.md",
+    "AIにアイコンを作らせる.md",
+    "test/無題のファイル.md",
+    "test/AIにアイコンを作らせる.md",
+    "test/+Daily Notes.md",
+    "test/'背の低いキースイッチ' TECSEE Pudding ミディアムのリニアスイッチ使ってみた！.md",
+    "開発ログ/'Obsidian' Notion風にしてみる.md",
+    "開発ログ/'Obsidian' APIを解読する.md",
+    "開発ログ/screenshot.jpg",
+    "開発ログ/JSテンプレテスト.md",
+    "開発ログ/Pasted image 20230401120816.png",
+    "開発ログ/Pasted image 20230331034255.png",
+    "開発ログ/Pasted image 20230331033705.png",
+    "開発ログ/Pasted image 20230331033554.png",
+    "開発ログ/Pasted image 20230331031412.png",
+    "開発ログ/Pasted image 20230331031232.png",
+    "開発ログ/Pasted image 20230331021950.png",
+    "開発ログ/Pasted image 20230331013551.png",
+    "開発ログ/壁紙を作りたいマン！.md",
+    "+Daily Notes.md",
+    "templates/TemplaterPlugin/TemplaterBase.md",
+    "2023/04/2023-04-01.md",
+    "templates/TemplaterPlugin/randomDevNotes.md",
+    "2023/03/2023-03-31.md",
+    "2023/04",
+    "2023/03/2023-03-30.md",
+    "2023/03/2023-03-23.md",
+    "templates/TemplaterPlugin/Dailynote.md",
+    "templates/TemplaterPlugin/技術ログ.md",
+    "templates/TemplaterPlugin/Table Notes.md",
+    "templates/TemplaterPlugin/test.md",
+    "templates/TemplaterPlugin/Random Evergreen Note Template.md",
+    "templates/TemplaterPlugin/Template JS.md",
+    "ト.md",
+    "templates/TemplaterPlugin/Template CSS.md",
+    "templates/TemplaterPlugin/color blue.md",
+    "開発参考記事",
+    "開発ログ",
+    "2023/03",
+    "2023",
+    "templates/TemplaterPlugin",
+    "templates/Template",
+    "templates",
+    "Notation-for-Obsidian-master/obsidian.css",
+    "Notation-for-Obsidian-master/LICENSE",
+    "Notation-for-Obsidian-master/Notation-for-Obsidian-master/screenshot.jpg"
+  ]
+}

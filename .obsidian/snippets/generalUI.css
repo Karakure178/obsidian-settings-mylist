@@ -1,0 +1,37 @@
+/* 3. General UI */
+.view-header-title {
+    font-weight: 700;
+}
+
+body.theme-light,
+body.theme-dark {
+    --hue: 203;
+    --sat: 8%;
+    --L3: 26%;
+    --text-rgb: 255, 255, 255;
+    /* Unnumbered lists color*/
+    --list-marker-color: rgb(var(--text-rgb));
+    --background-secondary-alt: hsl(var(--hue), var(--sat), var(--L3));
+    --text-normal: rgba(var(--text-rgb), 0.9);
+}
+
+/* 3.1. Title bar */
+.titlebar {
+    background-color: var(--background-secondary-alt);
+}
+
+.titlebar-inner {
+    color: var(--text-normal);
+}
+
+/* Unnumbered lists */
+.list-bullet {
+    --list-bullet-size:0.4em;
+}
+
+/* Emphasis text  */
+.cm-s-obsidian .cm-strong,
+.markdown-preview-view strong {
+    /* --code: #EB5757; */
+    color: var(--code);
+}
